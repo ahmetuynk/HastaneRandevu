@@ -11,7 +11,7 @@ Hastalara ait ekranda:
 -Randevu alma
 -Alınan randevuları görüntüleme
 -Randevu iptal etme
--Kendisine ait bilgileri düzenleme
+-Hastaya ait bilgileri düzenleme
 gibi işlemler gerçekleştirilebilir.
 
 Hekimlere ait ekranda:
